@@ -1,7 +1,7 @@
 # Seasonal Flu
 
 
-## Useful link
+## Useful links
 
 Information from Centre for Health Protection in Hong Kong:
 
