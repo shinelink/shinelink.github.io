@@ -3,7 +3,7 @@
 
 ## Useful links
 
-Information from Centre for Health Protection in Hong Kong:
+Information from the Centre for Health Protection in Hong Kong:
 
 <li><a href='https://www.chp.gov.hk/en/static/24012.html'>The number of notifiable infectious diseases</a>
 <li><a href='https://www.chp.gov.hk/en/statistics/data/10/641/642/2274.html'>Statistics on Laboratory Surveillance > Detection of pathogens from respiratory specimens</a>
