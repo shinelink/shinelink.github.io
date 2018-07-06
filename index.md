@@ -1,7 +1,7 @@
 # Seasonal Flu
 
 ## History
-The outbreaks of severe acute respiratory syndrome (SARS) started from 11 February 2003 when the World Health Organization first received reports from China on an outbreak of acute respiratory syndrome occurred in Guangdong province, to 28 May 2004 when the Hong Kong government lowered the Alert Level of SARS response system[<a class="ptr">1</a>].
+The outbreaks of severe acute respiratory syndrome (SARS) started from 11 February 2003 when the World Health Organization first received reports from China on an outbreak of acute respiratory syndrome occurred in Guangdong province, to 28 May 2004 when the Hong Kong government lowered the Alert Level of SARS response system <a class="ptr">[1]</a>.
 
 ## Useful links
 
