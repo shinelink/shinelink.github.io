@@ -4,7 +4,7 @@ Seasonal influenza is a common respiratory tract infection caused by human seaso
 
 Influenz A(H3N2) had the greatest impact, contributing around half of the excess respiratory mortality and respiratory
 hospitalizations on average, with influenza B contributing the second largest average during the study period of
-15.5 years from 1998 through 2013<a class="ptr">[1]</a>
+15.5 years from 1998 through 2013<a class="ptr">[1]</a>.
 
 ## History
 The outbreaks of severe acute respiratory syndrome (SARS) started from 11 February 2003 when the World Health Organization first received reports from China on an outbreak of acute respiratory syndrome occurred in Guangdong province, to 28 May 2004 when the Hong Kong government lowered the Alert Level of SARS response system <a class="ptr">[1]</a>.
