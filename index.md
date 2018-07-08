@@ -10,7 +10,7 @@ hospitalizations on average, with influenza B contributing the second largest av
 The outbreaks of severe acute respiratory syndrome (SARS) started from 11 February 2003 when the World Health Organization first received reports from China on an outbreak of acute respiratory syndrome occurred in Guangdong province, to 28 May 2004 when the Hong Kong government lowered the Alert Level of SARS response system <a class="ptr">[1]</a>.
 
 ## Data
-Data can be obtained from <a href='https://www.fludb.org/brc/influenza_sequence_search_segment_display.spg?method=ShowCleanSearch&decorator=influenza'>Influenza Research Database (IRD)</a> in fasta format. Use the Biopython package to analyze sequence data.  
+Data can be obtained from <a href='https://www.fludb.org/brc/influenza_sequence_search_segment_display.spg?method=ShowCleanSearch&decorator=influenza'>Influenza Research Database (IRD)</a> in fasta format. Use the Biopython package (<a href'=http://biopython.org/DIST/docs/tutorial/Tutorial.html'>Tutorial</a>) to analyze sequence data.  
 
 ## Useful links
 
