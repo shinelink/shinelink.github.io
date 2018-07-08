@@ -9,6 +9,9 @@ hospitalizations on average, with influenza B contributing the second largest av
 ## History
 The outbreaks of severe acute respiratory syndrome (SARS) started from 11 February 2003 when the World Health Organization first received reports from China on an outbreak of acute respiratory syndrome occurred in Guangdong province, to 28 May 2004 when the Hong Kong government lowered the Alert Level of SARS response system <a class="ptr">[1]</a>.
 
+## Data
+Data is obtained from <a href='https://www.fludb.org/brc/influenza_sequence_search_segment_display.spg?method=ShowCleanSearch&decorator=influenza'>Influenza Research Database (IRD)</a>
+
 ## Useful links
 
 Information from the Centre for Health Protection in Hong Kong:
@@ -17,9 +20,6 @@ Information from the Centre for Health Protection in Hong Kong:
 <li><a href='https://www.chp.gov.hk/en/statistics/data/10/641/642/2274.html'>Statistics on Laboratory Surveillance > Detection of pathogens from respiratory specimens</a>
 <li><a href='https://www.chp.gov.hk/en/statistics/data/10/641/643/2275.html'>Statistics on Laboratory Surveillance > Influenza Virus Subtyping</a>
   
-## Data
-Data is obtained from <a href='https://www.fludb.org/brc/influenza_sequence_search_segment_display.spg?method=ShowCleanSearch&decorator=influenza'>Influenza Research Database (IRD)</a>
-
 ## References
 <ol id="references">
         <li>Peng Wu, Anne M. Presanis, Helen S. Bond, Eric H. Y. Lau, Vicky J. Fang & Benjamin J. Cowling 
