@@ -12,6 +12,9 @@ The outbreaks of severe acute respiratory syndrome (SARS) started from 11 Februa
 ## Data processing
 Data can be obtained from <a href='https://www.fludb.org/brc/influenza_sequence_search_segment_display.spg?method=ShowCleanSearch&decorator=influenza'>Influenza Research Database (IRD)</a> in e.g. fasta format and use the Biopython package (<a href='http://biopython.org/DIST/docs/tutorial/Tutorial.html'>Tutorial</a>) to process the downloaded sequence data.  
 
+I will use the approach stated by Eric Ma who uses deep learning & genotype network-based system for predicting new influenza protein sequences.
+
+
 ## Useful links
 
 Information from the Centre for Health Protection in Hong Kong:
