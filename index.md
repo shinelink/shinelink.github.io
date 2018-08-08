@@ -54,4 +54,4 @@ variational autoencoder (VAE) and then he uses Gaussian Processes
 
 </p>
 </body>
-</html>
+
