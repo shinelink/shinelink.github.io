@@ -37,37 +37,54 @@ make the following selection:</p>
 <p style="margin-top: 0.17in; margin-bottom: 0.08in; line-height: 100%; page-break-after: avoid">
 <font face="Liberation Sans, sans-serif"><font size="4" style="font-size: 14pt">Selection
 of the 2009 pandemic:</font></font></p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">Data Type: Genome Segments</font></p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">Virus Type: A</font></p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">Subtype: H1N1</font></p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">Date range: 2009 to 2010</font></p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">Complete Genome Only</font></p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">Segments: HA</font></p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">select “2009 pH1N1 Sequence”</font></p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">	Similarity (SOP) </font>
-</p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">		“Only pH1N1”</font></p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">Host: Human</font></p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">Country: USA</font></p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">Download options:</font></p>
-<p style="margin-left: 0.98in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">Segment FASTA</font></p>
-<p style="margin-left: 0.98in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">Custom format:</font></p>
-<p style="margin-left: 0.98in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">	Accession Number</font></p>
+<ul>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Data
+	Type: Genome Segments</font></font></p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Virus
+	Type: A</font></font></p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Subtype:
+	H1N1</font></font></p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Date
+	range: 2009 to 2010</font></font></p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Complete
+	Genome Only</font></font></p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Segments:
+	HA</font></font></p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">select
+	“2009 pH1N1 Sequence”</font></font></p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">	Similarity
+	(SOP) </font></font>
+	</p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">		“Only
+	pH1N1”</font></font></p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Host:
+	Human</font></font></p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Country:
+	USA</font></font></p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Download
+	options:</font></font></p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Segment
+	FASTA</font></font></p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Custom
+	format:</font></font></p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">	Accession
+	Number</font></font></p>
+</ul>
 <p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
 <br/>
 
@@ -79,16 +96,22 @@ Name: 2009_2010_pH1N1.fasta</p>
 <p style="margin-top: 0.17in; margin-bottom: 0.08in; line-height: 100%; page-break-after: avoid">
 <font face="Liberation Sans, sans-serif"><font size="4" style="font-size: 14pt">Download
 non-pandemic sequences:</font></font></p>
-<p style="margin-bottom: 0in; line-height: 100%">	same selection
-criteria except: 
-</p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">select “2009 pH1N1 Sequence”</font></p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">	Similarity (SOP) </font>
-</p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<font color="#006666">		“Exclude pH1N1”</font></p>
+<ul>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">same
+	selection criteria except: </font></font>
+	</p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">select
+	“2009 pH1N1 Sequence”</font></font></p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">	Similarity
+	(SOP) </font></font>
+	</p>
+	<li/>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">		“Exclude
+	pH1N1”</font></font></p>
+</ul>
 <p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
 <br/>
 
