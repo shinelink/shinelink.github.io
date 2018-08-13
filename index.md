@@ -13,7 +13,7 @@ ended on 10 August 2010 [2].</p>
 	in 1918</p>
 	<li/>
 <p style="margin-bottom: 0in; line-height: 100%">Asian Flu in
-	1957f</p>
+	1957</p>
 	<li/>
 <p style="margin-bottom: 0in; line-height: 100%">Hong Kong Flu
 	in 1968</p>
