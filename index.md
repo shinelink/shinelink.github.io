@@ -1,3 +1,4 @@
+
 <body lang="en-HK" dir="ltr">
 <h2 class="western">History</h2>
 <p style="margin-bottom: 0in; line-height: 100%">There have been
@@ -5,8 +6,8 @@ about 9 influenza pandemics during the last 300 years. The worst is
 the  1918 Spanish influenza pandemic, with record of deaths of
 approximately 50–100 million people [1]. There have been about
 three influenza pandemics in each century and the most recent one was
-the 2009 flu pandemic. The pandemic began in November 2009 and was
-ended on 10 August 2010 [2].</p>
+the 2009 flu pandemic. The pandemic began in <u>November 2009</u> and
+was ended on <u>10 August 2010</u> [2].</p>
 <ul>
 	<li/>
 <p style="margin-bottom: 0in; line-height: 100%">Spanish Flu
@@ -36,94 +37,83 @@ make the following selection:</p>
 </p>
 <p style="margin-top: 0.17in; margin-bottom: 0.08in; line-height: 100%; page-break-after: avoid">
 <font face="Liberation Sans, sans-serif"><font size="4" style="font-size: 14pt">Selection
-of the 2009 pandemic:</font></font></p>
-<ul>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Data
-	Type: Genome Segments</font></font></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Virus
-	Type: A</font></font></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Subtype:
-	H1N1</font></font></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Date
-	range: 2009 to 2010</font></font></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Complete
-	Genome Only</font></font></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Segments:
-	HA</font></font></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">select
-	“2009 pH1N1 Sequence”</font></font></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">	Similarity
-	(SOP) </font></font>
-	</p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">		“Only
-	pH1N1”</font></font></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Host:
-	Human</font></font></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Country:
-	USA</font></font></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Download
-	options:</font></font></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Segment
-	FASTA</font></font></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">Custom
-	format:</font></font></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">	Accession
-	Number</font></font></p>
-</ul>
+criteria</font></font></p>
+<table width="642" cellpadding="4" cellspacing="0">
+	<col width="632">
+	<tr>
+		<td width="632" valign="top" style="border: 1px solid #000000; padding: 0.04in">
+			<p><font color="#000000">Data Type: Protein; Virus Type: A;
+			Subtype: H1N1; Date range: <font color="#0000ff">2000 to 2018</font>;
+			'Classical' Proteins: Complete? HA</font></p>
+		</td>
+	</tr>
+</table>
 <p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
 <br/>
 
 </p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-it returns 1470 segments.</p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-Name: 2009_2010_pH1N1.fasta</p>
-<p style="margin-top: 0.17in; margin-bottom: 0.08in; line-height: 100%; page-break-after: avoid">
-<font face="Liberation Sans, sans-serif"><font size="4" style="font-size: 14pt">Download
-non-pandemic sequences:</font></font></p>
-<ul>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">same
-	selection criteria except: </font></font>
-	</p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">select
-	“2009 pH1N1 Sequence”</font></font></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">	Similarity
-	(SOP) </font></font>
-	</p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 100%"><font color="#006666"><font size="2" style="font-size: 10pt">		“Exclude
-	pH1N1”</font></font></p>
-</ul>
+<p style="margin-bottom: 0in; line-height: 100%">it returns <font color="#0000ff">22,403</font>
+proteins</p>
+<p style="margin-bottom: 0in; line-height: 100%">Download ticket:
+<font color="#0000ff">28200724868</font></p>
+<p style="margin-bottom: 0in; line-height: 100%">Downloaded filename:
+<span style="background: #ffff00">28200724868-2000_2018-H1N1-global.</span><span style="background: #ffff00">tsv</span>
+(<font color="#0000ff">2</font><font color="#0000ff">.1 MB</font>) 
+</p>
 <p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
 <br/>
 
 </p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-it returns 198 segments.</p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-Your search history: 2009-2010 Exclude pH1N1</p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-Name: 2009_2010_non_pH1N1.fasta</p>
+<table width="642" cellpadding="4" cellspacing="0">
+	<col width="632">
+	<tr>
+		<td width="632" valign="top" style="border: 1px solid #000000; padding: 0.04in">
+			<p><font color="#000000">Data Type: Genome Segments; Virus Type:
+			A; Subtype: H1N1; Date range: <font color="#0000ff">2000 to 2018</font>;
+			'Classical' Proteins: Complete? HA; Download options: Segment
+			FASTA | Custom format: Accession Number</font></p>
+		</td>
+	</tr>
+</table>
 <p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
 <br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%">it returns <font color="#0000ff">11,264</font>
+segments</p>
+<p style="margin-bottom: 0in; line-height: 100%">Download ticket:
+<font color="#0000ff">626844955318</font></p>
+<p style="margin-bottom: 0in; line-height: 100%">Downloaded filename:
+<span style="background: #ffff00">626844955318-2000_2018-H1N1-global</span><span style="background: #ffff00">.fasta</span>
+(9.9 MB) 
+</p>
+<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
+<br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><span style="background: #ffff00">update
+utils/data.py</span> for according to the downloaded fileanames</p>
+<p style="margin-bottom: 0in; line-height: 100%">The test data is set
+after November 2009 when the pandemic of Swine Flu occurred. In
+addition, the following code is added to select only “Complete
+Genome” of downloaded protein sequence.</p>
+<p style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%">Training data: 2000
+to 2018 (exclude testing data) 
+</p>
+<p style="margin-bottom: 0in; line-height: 100%">Testing data:
+&gt;=1.11.2009 and &lt;=10.8.2010</p>
+<p style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%">Then use the
+variational autoencoder model to learn a latent representation of
+discrete sequence space as a continuous representation. <a href="https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/">VAE
+</a>models the underlying probaility distribution of data and the
+resulting models were saved under the trained_models sub-folder.</p>
+<p style="margin-bottom: 0in; line-height: 100%"><br/>
 
 </p>
 <p style="margin-bottom: 0in; line-height: 100%">Sequences are
