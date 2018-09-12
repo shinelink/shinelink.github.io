@@ -1,1 +1,0 @@
-# shinelink.github.io
