@@ -1,3 +1,7 @@
+'''
+The original program is written by Eric Ma and the codes can be found located at https://github.com/ericmjl/flu-sequence-predictor/
+'''
+
 import logging
 from logging.handlers import RotatingFileHandler
 
