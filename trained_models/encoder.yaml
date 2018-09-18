@@ -2,16 +2,16 @@ backend: tensorflow
 class_name: Model
 config:
   input_layers:
-  - [input_3, 0, 0]
+  - [input_5, 0, 0]
   layers:
   - class_name: InputLayer
     config:
-      batch_input_shape: !!python/tuple [null, 19701]
+      batch_input_shape: !!python/tuple [null, 13680]
       dtype: float32
-      name: input_3
+      name: input_5
       sparse: false
     inbound_nodes: []
-    name: input_3
+    name: input_5
   - class_name: Dense
     config:
       activation: linear
@@ -26,17 +26,17 @@ config:
         class_name: VarianceScaling
         config: {distribution: uniform, mode: fan_avg, scale: 1.0, seed: null}
       kernel_regularizer: null
-      name: dense_4
+      name: dense_7
       trainable: true
       units: 3
       use_bias: true
     inbound_nodes:
-    - - - input_3
+    - - - input_5
         - 0
         - 0
         - {}
-    name: dense_4
-  name: model_6
+    name: dense_7
+  name: model_10
   output_layers:
-  - [dense_4, 0, 0]
+  - [dense_7, 0, 0]
 keras_version: 2.1.5

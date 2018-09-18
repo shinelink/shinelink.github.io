@@ -38,7 +38,7 @@ def load_sequence_and_metadata_addH3N2(kind='feather'):
     
     starttime = datetime.now()
     sequences = [s for s                 
-                 in SeqIO.parse('data/2000_2014_H3N2_global_137661756318.fasta', 'fasta')                                                                              
+                 in SeqIO.parse('data/2000_2014_H3N2_global_626844955318.fasta', 'fasta')                                                                              
                  ]
     if kind == 'csv':          
         metadata = pd.read_csv('data/2000_2014_H3N2_global_589817715540-Results.tsv',
