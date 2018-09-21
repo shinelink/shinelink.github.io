@@ -56,131 +56,108 @@ Research Database (IRD)</a> . The selection criteria are as follows:</p>
 <p style="margin-bottom: 0in; line-height: 100%"><br/>
 
 </p>
-<table width="654" cellpadding="4" cellspacing="0">
-	<col width="165">
-	<col width="227">
-	<col width="236">
-	<tr valign="top">
-		<td width="165" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p><br/>
-
-			</p>
-		</td>
-		<td width="227" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p><b>Exclue pH1N1 (_xpH1N1)</b></p>
-		</td>
-		<td width="236" style="border: 1px solid #000000; padding: 0.04in">
-			<p><b>only pH1N1 (_pH1N1)</b></p>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td width="165" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p><u>Metadata of viral protein</u></p>
-			<p><br/>
-
-			</p>
-			<p><br/>
-
-			</p>
-			<p><font color="#000000">Data Type: Protein; </font>
-			</p>
-			<p><font color="#000000">Virus Type: A; </font>
-			</p>
-			<p><font color="#000000">Subtype: H1N1; </font>
-			</p>
-			<p><font color="#000000">Date range: </font><font color="#0000ff">2000
-			to 2018</font><font color="#000000">; </font>
-			</p>
-			<p><font color="#000000">'Classical' Proteins: HA;</font></p>
-			<p><br/>
-
-			</p>
-		</td>
-		<td width="227" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p><font color="#000000"><u>Addition searching criteria:</u></font></p>
-			<p><font color="#000000">Clade classification: 2009 pH1N1 Sequence
-			Similarity (Exclude pH1N1);</font></p>
-			<p><font color="#000000">Tab Delimited – Display Columns Only</font></p>
-			<p><br/>
-
-			</p>
-			<p>it returns <font color="#0000ff">6,561</font> proteins</p>
-			<p>Download ticket: <font color="#0000ff">296089903487</font></p>
-			<p>Downloaded filename: <span style="background: #ffff00">2000_2018-</span><span style="background: #ffff00">xp</span><span style="background: #ffff00">H1N1-global_296089903487.tsv</span>
-			(631<font color="#0000ff">.</font><font color="#0000ff">8</font><font color="#0000ff">
-			</font><font color="#0000ff">k</font><font color="#0000ff">B</font>)
-						</p>
-			<p><font color="#000000">Downloaded on 20.9.2018</font></p>
-		</td>
-		<td width="236" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-			<p><font color="#000000"><u>Addition searching criteria:</u></font></p>
-			<p><font color="#000000">Clade classification: 2009 pH1N1 Sequence
-			Similarity (Only pH1N1);</font></p>
-			<p><font color="#000000">Tab Delimited – Display Columns Only</font></p>
-			<p><br/>
-
-			</p>
-			<p><br/>
-
-			</p>
-			<p>it returns <font color="#0000ff">15,851</font> proteins</p>
-			<p>Download ticket: <font color="#0000ff">287558903998</font></p>
-			<p>Downloaded filename: <span style="background: #ffff00">2000_2018-pH1N1-global_287558903998.</span><span style="background: #ffff00">tsv</span>
-			(1<font color="#0000ff">.</font><font color="#0000ff">5</font><font color="#0000ff">
-			MB</font>) 
-			</p>
-			<p><font color="#000000">Downloaded on 20.9.2018</font></p>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td width="165" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p><u>Corresponding viral protein sequence</u></p>
-			<p style="text-decoration: none">(Same searching criteria as
-			above)</p>
-			<p><br/>
-
-			</p>
-			<p><font color="#000000"> </font>
-			</p>
-		</td>
-		<td width="227" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p>Download Options: Protein FASTA</p>
-			<p style="margin-bottom: 0.2in"><font color="#000000">Format:
-			Accession Number</font></p>
-			<p>Download ticket: <font color="#0000ff">263410394807</font></p>
-			<p>Downloaded filename: <span style="background: #ffff00">2000_2018-</span><span style="background: #ffff00">x</span><span style="background: #ffff00">p</span><span style="background: #ffff00">H1N1-global_263410394807.fasta</span>
-			(3.8 MB) 
-			</p>
-			<p><font color="#000000">Downloaded on 20.9.2018</font></p>
-		</td>
-		<td width="236" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-			<p>Download Options: Protein FASTA</p>
-			<p style="margin-bottom: 0.2in"><font color="#000000">Format:
-			Accession Number</font></p>
-			<p>Download ticket: <font color="#0000ff">87279350985</font></p>
-			<p>Downloaded filename: <span style="background: #ffff00">2000_2018-pH1N1-global_87279350985.fasta</span>
-			(9<font color="#0000ff">.</font><font color="#0000ff">3</font><font color="#0000ff">
-			MB</font>) 
-			</p>
-			<p><font color="#000000">Downloaded on 20.9.2018</font></p>
-		</td>
-	</tr>
-</table>
+<h3 class="western">Metadata of viral protein</h3>
 <p><br/>
+
+</p>
+<p><font color="#000000">Data Type: Protein; </font>
+</p>
+<p><font color="#000000">Virus Type: A; </font>
+</p>
+<p><font color="#000000">Subtype: H1N1; </font>
+</p>
+<p><font color="#000000">Date range: </font><font color="#0000ff">2000
+to 2018</font><font color="#000000">; </font>
+</p>
+<p><font color="#000000">'Classical' Proteins: HA;</font></p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
 <br/>
 
 </p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
+<u>Exclue pH1N1 </u><u>(_xpH1N1)</u></p>
+<p style="text-decoration: none"><font color="#000000">Addition
+searching criteria:</font></p>
+<p><font color="#000000">Clade classification: 2009 pH1N1 Sequence
+Similarity (Exclude pH1N1);</font></p>
+<p><font color="#000000">Tab Delimited – Display Columns Only</font></p>
 <p><br/>
+
+</p>
+<p>It returns <font color="#0000ff">6,561</font> proteins</p>
+<p>Download ticket: <font color="#0000ff">296089903487</font></p>
+<p>Downloaded filename: <span style="background: #ffff00">2000_2018-</span><span style="background: #ffff00">xp</span><span style="background: #ffff00">H1N1-global_296089903487.tsv</span>
+(631<font color="#0000ff">.</font><font color="#0000ff">8</font><font color="#0000ff">
+</font><font color="#0000ff">k</font><font color="#0000ff">B</font>) 
+</p>
+<p style="margin-bottom: 0in; line-height: 100%">Downloaded on
+20.9.2018</p>
+<p style="margin-bottom: 0.2in"><br/>
 <br/>
 
 </p>
-<p style="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<br/>
+<h3 class="western"></h3>
+<p style="margin-bottom: 0in; line-height: 100%"><u>only pH1N1
+(_pH1N1)</u></p>
+<p style="margin-bottom: 0in; line-height: 100%">Addition searching
+criteria:</p>
+<p><font color="#000000">Clade classification: 2009 pH1N1 Sequence
+Similarity (Only pH1N1);</font></p>
+<p><font color="#000000">Tab Delimited – Display Columns Only</font></p>
+<p><br/>
 
 </p>
-<p style="margin-bottom: 0in; line-height: 100%"><span style="background: #ffff00">NB:
-</span><span style="background: #ffff00">U</span><span style="background: #ffff00">pdate
-utils/data</span><span style="background: #ffff00">2</span><span style="background: #ffff00">.py</span>
+<p>It returns <font color="#0000ff">15,851</font> proteins</p>
+<p>Download ticket: <font color="#0000ff">287558903998</font></p>
+<p>Downloaded filename: <span style="background: #ffff00">2000_2018-pH1N1-global_287558903998.</span><span style="background: #ffff00">tsv</span>
+(1<font color="#0000ff">.</font><font color="#0000ff">5</font><font color="#0000ff">
+MB</font>) 
+</p>
+<p style="margin-bottom: 0in; line-height: 100%">Downloaded on
+20.9.2018</p>
+<h3 class="western">Corresponding viral protein sequence</h3>
+<p style="text-decoration: none">(Same searching criteria as above)</p>
+<p><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><u><span style="font-weight: normal">Exclue
+pH1N1 </span></u><u><span style="font-weight: normal">(_xpH1N1)</span></u></p>
+<p style="margin-bottom: 0in; line-height: 100%">Download Options:
+Protein FASTA</p>
+<p style="margin-bottom: 0in; line-height: 100%">Format: Accession
+Number</p>
+<p>Download ticket: <font color="#0000ff">263410394807</font></p>
+<p>Downloaded filename: <span style="background: #ffff00">2000_2018-</span><span style="background: #ffff00">x</span><span style="background: #ffff00">p</span><span style="background: #ffff00">H1N1-global_263410394807.fasta</span>
+(3.8 MB) 
+</p>
+<p style="margin-bottom: 0in; line-height: 100%">Downloaded on
+20.9.2018</p>
+<p style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
+<u><font color="#000000">only pH1N1 </font><font color="#000000">(_pH1N1)</font></u></p>
+<p>Download Options: Protein FASTA</p>
+<p style="margin-bottom: 0in; line-height: 100%">Format: Accession
+Number</p>
+<p style="margin-bottom: 0in; line-height: 100%">Download ticket:
+<font color="#0000ff">87279350985</font></p>
+<p style="margin-bottom: 0in; line-height: 100%">Downloaded filename:
+<font color="#800000"><span style="background: #ffff00">2000_2018-pH1N1-global_87279350985.fasta</span></font>
+(9<font color="#0000ff">.</font><font color="#0000ff">3</font><font color="#0000ff">
+MB</font>) 
+</p>
+<p style="margin-bottom: 0in; line-height: 100%">Downloaded on
+20.9.2018</p>
+<p style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><span style="background: transparent">NB:
+</span><span style="background: transparent">U</span><span style="background: transparent">pdate
+utils/data</span><span style="background: transparent">2</span><span style="background: transparent">.py</span>
 for the downloaded filenames.</p>
 <p style="margin-bottom: 0in; line-height: 100%"><br/>
 
@@ -204,9 +181,9 @@ to 2018 (exclude testing data)
 </p>
 <p style="margin-bottom: 0in; line-height: 100%"><font face="Liberation Sans, sans-serif"><font size="5" style="font-size: 16pt"><b>Methodology</b></font></font></p>
 <p style="margin-bottom: 0in; line-height: 100%">I use the approach
-stated by Eric Ma who uses deep learning &amp; genotype network-based
-system for predicting new influenza protein sequences. You can check
-out details at <a href="https://fluforecaster.herokuapp.com/">HeroKu</a>
+stated by Eric J. Ma who uses deep learning &amp; genotype
+network-based system for predicting new influenza protein sequences.
+You can check out details at <a href="https://fluforecaster.herokuapp.com/">HeroKu</a>
 and the code <a href="https://github.com/ericmjl/flu-sequence-predictor/">here</a>.
 Eric translates sequences to &quot;latent&quot; representation by
 variational autoencoder (VAE) and then he uses Gaussian Processes
@@ -231,6 +208,20 @@ to process the downloaded sequence data.
 <h2 class="western"></h2>
 <h2 class="western"></h2>
 <h2 class="western"></h2>
+<h2 class="western"></h2>
+<h2 class="western"></h2>
+<p><br/>
+<br/>
+
+</p>
+<p><br/>
+<br/>
+
+</p>
+<p><br/>
+<br/>
+
+</p>
 <h2 class="western">References</h2>
 <ol>
 	<li/>
@@ -259,143 +250,80 @@ to process the downloaded sequence data.
 
 </p>
 <h2 class="western">Table of data files</h2>
-<table width="654" cellpadding="0" cellspacing="0">
-	<col width="181">
-	<col width="182">
-	<col width="289">
-	<tr valign="top">
-		<td width="181" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p><b>Group</b></p>
-		</td>
-		<td width="182" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p><b>Filename</b></p>
-		</td>
-		<td width="289" style="border: 1px solid #000000; padding: 0in">
-			<p><b>Description</b></p>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td width="181" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="margin-bottom: 0in; font-weight: normal"><font color="#000000"><span style="background: transparent">H3N2
-			protein sequence</span></font></p>
-			<p style="margin-bottom: 0in"><font color="#000000"><span style="font-weight: normal"><span style="background: transparent">(</span></span></font>2000-2017)</p>
-			<p>original data from 
-			</p>
-		</td>
-		<td width="182" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">20170531-H3N2-global.tsv</span></font></p>
-		</td>
-		<td width="289" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">Metal
-			data; H3N2</span></font></p>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td width="181" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="font-weight: normal"><br/>
+<p><br/>
+<br/>
 
-			</p>
-		</td>
-		<td width="182" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">20170531-H3N2-global.fasta</span></font></p>
-		</td>
-		<td width="289" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">Protein
-			sequence; H3N2</span></font></p>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td width="181" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="margin-bottom: 0in; font-weight: normal"><font color="#000000"><span style="background: transparent">H3N2
-			protein sequence</span></font></p>
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">(2000
-			to 2014)</span></font></p>
-		</td>
-		<td width="182" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">2000_2014_H3N2_global_589817715540-Results.tsv</span></font></p>
-		</td>
-		<td width="289" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">Metal
-			data; H3N2</span></font></p>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td width="181" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="font-weight: normal"><br/>
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font color="#000000"><font size="2" style="font-size: 10pt"><u><span style="font-weight: normal"><span style="background: transparent">O</span></span></u></font></font><font color="#000000"><font size="2" style="font-size: 10pt"><u><span style="font-weight: normal"><span style="background: transparent">riginal
+</span></span></u></font></font><font color="#000000"><font size="2" style="font-size: 10pt"><u><span style="font-weight: normal"><span style="background: transparent">data</span></span></u></font></font><font color="#000000"><font size="2" style="font-size: 10pt"><u><span style="font-weight: normal"><span style="background: transparent">
+from Eric J. Ma (2000-2017) </span></span></u></font></font>
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font size="2" style="font-size: 10pt"><font color="#000000"><span style="font-weight: normal"><span style="background: transparent">20170531-H3N2-global.tsv
+/H3N2 </span></span></font><font color="#000000"><span style="font-weight: normal"><span style="background: transparent">metadata</span></span></font><font color="#000000"><span style="font-weight: normal"><span style="background: transparent">
+</span></span></font></font>
+</p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
+<font color="#000000"><font size="2" style="font-size: 10pt"><span style="background: transparent">20170531-H3N2-global.fasta
+/ H3N2 protein sequence</span></font></font></p>
+<p><br/>
+<br/>
 
-			</p>
-		</td>
-		<td width="182" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">2000_2014_H3N2_global_626844955318.fasta</span></font></p>
-		</td>
-		<td width="289" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">Protein
-			sequence; H3N2</span></font></p>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td width="181" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="margin-bottom: 0in; font-weight: normal"><font color="#000000"><span style="background: transparent">Non-pandemic
-			protein sequence</span></font></p>
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">(2000
-			to 2018)</span></font></p>
-		</td>
-		<td width="182" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">2000_2018-xpH1N1-global_296089903487.tsv</span></font></p>
-		</td>
-		<td width="289" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">Metadata;
-			H1N1; exclue pH1N1</span></font></p>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td width="181" height="32" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="font-weight: normal"><br/>
+</p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
+<font color="#000000"><font size="2" style="font-size: 10pt"><u><span style="background: transparent">Data
+for inital testing (2000 to 2014)</span></u></font></font></p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
+<font color="#000000"><font size="2" style="font-size: 10pt"><span style="background: transparent">2000_2014_H3N2_global_589817715540-Results.tsv
+/ H3N2 metadata </span></font></font>
+</p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
+<font color="#000000"><font size="2" style="font-size: 10pt"><span style="background: transparent">2000_2014_H3N2_global_626844955318.fasta
+/ H3N2 sequence </span></font></font>
+</p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
+<br/>
 
-			</p>
-		</td>
-		<td width="182" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">000_2018-xpH1N1-global_263410394807.fasta</span></font></p>
-		</td>
-		<td width="289" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">protein
-			sequence; H1N1; exclue pH1N1 </span></font>
-			</p>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td width="181" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="margin-bottom: 0in; font-weight: normal"><font color="#000000"><span style="background: transparent">ndemic
-			protein sequence</span></font></p>
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">(2000
-			to 2018)</span></font></p>
-		</td>
-		<td width="182" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">2000_2018-pH1N1-global_287558903998.tsv</span></font></p>
-		</td>
-		<td width="289" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">Metadata;
-			H1N1; pH1N1</span></font></p>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td width="181" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="font-weight: normal"><br/>
+</p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
+<font color="#000000"><font size="2" style="font-size: 10pt"><u><span style="background: transparent">Non-pandemic
+protein data (exclue pH1N1; 2000 to 2018) </span></u></font></font>
+</p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
+<font color="#000000"><font size="2" style="font-size: 10pt"><span style="background: transparent">2000_2018-xpH1N1-global_296089903487.tsv/
+metadata</span></font></font></p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
+<font color="#000000"><font size="2" style="font-size: 10pt"><span style="background: transparent">2000_2018-xpH1N1-global_263410394807.fasta/
+protein sequence</span></font></font></p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
+<br/>
 
-			</p>
-		</td>
-		<td width="182" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0in">
-			<p style="font-weight: normal"><font color="#000000"><span style="background: transparent">2000_2018-pH1N1-global_87279350985.fasta</span></font></p>
-		</td>
-		<td width="289" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding: 0in">
-			<p style="margin-bottom: 0in; font-weight: normal"><font color="#000000"><span style="background: transparent">protein
-			sequence; H1N1; pH1N1</span></font></p>
-			<p style="font-weight: normal"><br/>
+</p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
+<font color="#000000"><font size="2" style="font-size: 10pt"><u><span style="background: transparent">Pandemic
+protein sequence (only pH1N1; 2000 to 2018)</span></u></font></font></p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
+<font color="#000000"><font size="2" style="font-size: 10pt"><span style="background: transparent">2000_2018-pH1N1-global_287558903998.tsv/
+metadata</span></font></font></p>
+<p style="margin-bottom: 0.2in; font-weight: normal; line-height: 100%; text-decoration: none">
+<font color="#000000"><font size="2" style="font-size: 10pt"><span style="background: transparent">2000_2018-pH1N1-global_87279350985.fasta/
+protein sequence</span></font></font></p>
+<p style="margin-bottom: 0.2in; font-weight: normal; line-height: 100%; text-decoration: none">
+<br/>
+<br/>
 
-			</p>
-		</td>
-	</tr>
-</table>
+</p>
+<p><br/>
+<br/>
+
+</p>
+<p><br/>
+<br/>
+
+</p>
+<p><br/>
+<br/>
+
+</p>
 <p style="margin-bottom: 0in; line-height: 100%"><br/>
 
 </p>
