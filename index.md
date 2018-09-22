@@ -1,1 +1,1 @@
-<h2>Please click <a href='https://rawgit.com/shinelink/shinelink.github.io/master/readme.html'> here </a> to redirect to readme.html</h2>
+<h3>Since it's more convenient to explain the project in this site in html format, please click <a href='https://rawgit.com/shinelink/shinelink.github.io/master/readme.html'> here </a> to redirect to readme.html</h3>
